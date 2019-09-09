@@ -11,21 +11,21 @@ You can choose list of OS images for test your role.
           - ubuntu1804
 ```
 Available OS variants [@geerlingguy Docker Hub](https://hub.docker.com/u/geerlingguy) docker-*-ansible
-* docker-ubuntu1604-ansible
-* docker-ubuntu1804-ansible
-* docker-ubuntu1404-ansible
-* docker-ubuntu1204-ansible
-* docker-debian10-ansible
-* docker-debian9-ansible
-* docker-debian8-ansible
-* docker-centos7-ansible
-* docker-centos6-ansible
-* docker-amazonlinux2-ansible
-* docker-fedora30-ansible
-* docker-fedora29-ansible
-* docker-fedora27-ansible
-* docker-fedora24-ansible
-* docker-ubi8-ansible
+* ubuntu1604
+* ubuntu180
+* ubuntu1404
+* ubuntu1204
+* debian10
+* debian9
+* debian8
+* centos7
+* centos6
+* amazonlinux2
+* fedora30
+* fedora29
+* fedora27
+* fedora24
+* ubi8
 
 And you can choose ANsible versions list to test.
 ```
